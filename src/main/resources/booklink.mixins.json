@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "dev.floffah.booklink.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [
+        "BookEditHandlerMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

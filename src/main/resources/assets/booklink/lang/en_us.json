@@ -1,0 +1,7 @@
+{
+  "item.booklink.linked_book": "Linked Book",
+  "item.booklink.unlinked_book": "Unlinked Book",
+  "screen.booklink.link": "Link Book",
+  "screen.booklink.name": "Book name (without .txt)",
+  "item.booklink.unlinked_book_and_quill": "Unlinked Book and Quill"
+}

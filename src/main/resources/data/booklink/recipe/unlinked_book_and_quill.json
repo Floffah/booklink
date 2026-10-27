@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "booklink:unlinked_book"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "item": "minecraft:feather"
+        }
+    ],
+    "result": {
+        "id": "booklink:unlinked_book_and_quill",
+        "count": 1
+    }
+}
